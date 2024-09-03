@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Alex Gama Silva</h1>
+            <h1>Aryelle Estephane de frança Lima</h1>
             <p>Email: aryelle.estephane@gmail.com| Telefone: (55) 1197787-8720</p>
             <p>Endereço: Estrada itapecirica, 123, São Paulo, SP, 23345567</p>
         </header>
@@ -35,23 +35,24 @@
             <h2>Educação</h2>
             <div class="education">
                 <h3>E.E Miguel Munhoz Filho</h3>
-                <p><strong>Curso:</strong> Em e itinerário técnico</p>
+                <p><strong>Curso:</strong> Ensino medio e itinerário técnico</p>
                 <p><strong>Período:</strong> 02/24 - 12/25</p>
             </div>
         </section>
         <section>
             <h2>Habilidades</h2>
             <ul class="skills">
-                <li>Habilidade 1</li>
-                <li>Habilidade 2</li>
-                <li>Habilidade 3</li>
+                <li>Aprender</li>
+                <li>Escutar</li>
+
             </ul>
         </section>
         <section>
             <h2>Projetos</h2>
             <div class="projects">
-                <h3>Nome do Projeto</h3>
-                <p><strong>Descrição:</strong> Descreva brevemente o projeto.</p>
+                <h3>Trasbalho em equipe feito no Figma</h3>
+                <p><strong>Descrição:</strong> Tinhamos que escolher um tema, sabendo que o software figma é um web design,
+e depois fazer o código dele.</p>
                 <p><strong>Link:</strong> <a href="http://www.projeto.com">www.projeto.com</a></p>
             </div>
         </section>
